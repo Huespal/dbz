@@ -1,0 +1,32 @@
+﻿.mainWrapper {
+    background-color: black;
+    color: white;
+}
+
+.character-image {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+.character-text {
+    horizontal-align: center;
+}
+
+.search-bar {
+    margin-bottom: 10px;
+    padding: 0 10px;
+    background-color: white;
+    color: black;
+    width: 700px; /* 100% is not allowed */
+    position: fixed;
+    bottom: 0;
+}
+
+.hide {
+    visibility: collapse;
+}
+
+.show {
+    visibility: visible;
+}

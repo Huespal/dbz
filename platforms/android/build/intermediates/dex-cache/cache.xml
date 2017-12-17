@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/libs/nativescript.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="67b373dcc4118eeaa58a606b21684f016f79d1b0">
+        <dex dex="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/build/intermediates/pre-dexed/debug/nativescript-a47a78a88d113d10ae58a433d51f347d319ed1f9.jar" />
+    </item>
+    <item
+        jar="/home/pc1/Documents/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-f1f0fc5606301097ec397d8cad3e12c572b65099.jar" />
+    </item>
+    <item
+        jar="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/libs/widgets.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dab3994e6354b233885a2834673e6fc968347762">
+        <dex dex="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/build/intermediates/pre-dexed/debug/widgets-fd21964abc2a56a63ddb404a44a73e3f5f523602.jar" />
+    </item>
+    <item
+        jar="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-f17fc48b64d3f3c59ddbd901aef44ca9e0d8373c.jar" />
+    </item>
+    <item
+        jar="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/build/intermediates/pre-dexed/debug/classes-36cd36c4d1babc5277c3babf4914c852794515cb.jar" />
+    </item>
+    <item
+        jar="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/pc1/Documents/Projectes/apps/dbz/platforms/android/build/intermediates/pre-dexed/debug/classes-cee9b36b815d256c250a77133ad1e62c4b6e7c06.jar" />
+    </item>
+
+</items>

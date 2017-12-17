@@ -1,0 +1,17 @@
+{
+	"name": "sanlu-DBZ",
+	"main": "app.js",
+	"jsoptions": "--expose_gc",
+	"version": "1.3.0",
+	"author": "Sanlu <danisanrov@hotmail.com>",
+	"description": "DBZ touch",
+	"license": "BSD",
+	"keywords": [
+		"DBZ",
+		"mobile",
+		"Sanlu",
+		"{N}",
+		"appbuilder",
+		"template"
+	]
+}

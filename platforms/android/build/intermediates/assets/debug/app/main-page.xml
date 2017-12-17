@@ -1,0 +1,7 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded" cssClass="body">
+  <StackLayout id="body">
+    <ScrollView>
+      <WrapLayout id="mainWrapper" cssClass="mainWrapper"></WrapLayout>
+    </ScrollView>
+  </StackLayout>
+</Page>
